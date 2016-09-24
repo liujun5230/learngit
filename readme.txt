@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+﻿Git is a distributed version control system.
 Git is free software.
 is this a pen?
 
@@ -12,3 +12,4 @@ git tracks change of files.
 Please make sure you have the correct access rights
 and the repository exists.
 
+conclict
