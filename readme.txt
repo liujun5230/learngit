@@ -6,4 +6,9 @@ GIT has a mutable index called stage.
 
 git tracks change of files.
 
-修改一次，提交到远程，测试下git push 命令
+淇敼涓�娆★紝鎻愪氦鍒拌繙绋嬶紝娴嬭瘯涓媑it push 鍛戒护
+
+
+Please make sure you have the correct access rights
+and the repository exists.
+
