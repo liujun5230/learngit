@@ -12,4 +12,8 @@ git tracks change of files.
 Please make sure you have the correct access rights
 and the repository exists.
 
+<<<<<<< HEAD
 conclict
+=======
+kkkkkkkk
+>>>>>>> 085abc74493d80485a1732301d5206b8a09a295c
