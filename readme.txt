@@ -5,3 +5,5 @@ is this a pen?
 GIT has a mutable index called stage.
 
 git tracks change of files.
+
+修改一次，提交到远程，测试下git push 命令
